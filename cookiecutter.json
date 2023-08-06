@@ -1,0 +1,8 @@
+{
+    "author": "<INSERT AUTHOR HERE>",
+    "author_email": "<INSERT EMAIL HERE>",
+    "github_url": "If you have already made a github repo to tie the project to place it here",
+    "package_name": "What is name of your pacakge",
+    "project_name": "dbt-{{ cookiecutter.package_name.lower() }}",
+    "project_version": "1.0.0"
+  }
